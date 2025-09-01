@@ -3,8 +3,8 @@
 [[简体中文]](zh-hans.md)
 <!-- [[繁體中文]](zh-hant.md) -->
 
-🎓 **Undergraduate Student**
-ShanghaiTech University, Shanghai, China
+🎓 **Undergraduate Student**  
+ShanghaiTech University, Shanghai, China  
 B.E. in Computer Science and Technology (Expected 2026.06)
 
 ---
