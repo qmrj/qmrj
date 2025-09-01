@@ -1,4 +1,4 @@
-# 👋 你好，我是钱嘉烨<small style="font-size:0.6em; color:gray; margin-left: 1.5em;">Qián Jiāyè</small>
+# 👋 你好，我是钱嘉烨
 
 [[English]](README.md)
 <!-- [[繁體中文]](zh-hant.md) -->

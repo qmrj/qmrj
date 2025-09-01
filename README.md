@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jiaye Qian<small style="font-size:0.6em; color:gray; margin-left: 1.5em;">钱嘉烨</small>
+# 👋 Hi, I'm Jiaye Qian (钱嘉烨)
 
 [[简体中文]](zh-hans.md)
 <!-- [[繁體中文]](zh-hant.md) -->

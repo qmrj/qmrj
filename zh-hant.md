@@ -1,4 +1,4 @@
-# 👋 你好，我是錢嘉燁<small style="font-size:0.6em; color:gray; margin-left: 1.5em;">ㄑㄧㄢˊ ㄐㄧㄚㄧㄝˋ</small>
+# 👋 你好，我是錢嘉燁
 
 [[English]](README.md)
 [[简体中文]](zh-hans.md)
