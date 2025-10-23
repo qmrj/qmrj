@@ -5,7 +5,7 @@
 
 🎓 **Undergraduate Student**  
 ShanghaiTech University, Shanghai, China  
-B.E. in Computer Science and Technology (Expected 2026.06)
+B.E. in Computer Science and Technology (Expected 2026.07)
 
 ---
 
