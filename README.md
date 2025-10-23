@@ -9,6 +9,24 @@ B.E. in Computer Science and Technology (Expected 2026.06)
 
 ---
 
+## 📚 Publications
+
+\*: equal contribution, ^: corresponding author
+<!-- 
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](#)  
+[3] *Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats*  
+**Jiaye Qian**\*, Ge Zheng\*, Yuchen Zhu, Sibei Yang^
+
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](#)  
+[2] *Discovering Compositional Hallucinations in LVLMs*  
+Ge Zheng, Jiajin Tang, **Jiaye Qian**, Hanzhuo Huang, Cheng Shi, Sibei Yang^ -->
+
+[![ICCV 2025](https://img.shields.io/badge/ICCV%202025-blue)](https://openaccess.thecvf.com/content/ICCV2025/html/Zheng_Why_LVLMs_Are_More_Prone_to_Hallucinations_in_Longer_Responses_ICCV_2025_paper.html)  
+[1] *Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context*  
+Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^
+
+---
+
 ## 🛠️ Skills
 
 ### 👨‍💻 Languages
