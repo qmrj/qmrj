@@ -21,7 +21,9 @@ B.E. in Computer Science and Technology (Expected 2026.07)
 [2] *Discovering Compositional Hallucinations in LVLMs*  
 Ge Zheng, Jiajin Tang, **Jiaye Qian**, Hanzhuo Huang, Cheng Shi, Sibei Yang^ -->
 
-[![ICCV 2025](https://img.shields.io/badge/ICCV%202025-blue)](https://openaccess.thecvf.com/content/ICCV2025/html/Zheng_Why_LVLMs_Are_More_Prone_to_Hallucinations_in_Longer_Responses_ICCV_2025_paper.html)  
+[![ICCV 2025](https://img.shields.io/badge/ICCV%202025-blue)](https://openaccess.thecvf.com/content/ICCV2025/html/Zheng_Why_LVLMs_Are_More_Prone_to_Hallucinations_in_Longer_Responses_ICCV_2025_paper.html)
+[![arXiv:2510.20229](https://img.shields.io/badge/arXiv-2510.20229-red)](https://arxiv.org/abs/2510.20229)
+[![Repo: SooLab/HalTrapper](https://img.shields.io/badge/Repo-SooLab%2FHalTrapper-181717?logo=github&logoColor=white)](https://github.com/SooLab/HalTrapper)  
 [1] *Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context*  
 Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^
 
