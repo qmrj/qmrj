@@ -14,6 +14,7 @@ B.E. in Computer Science and Technology (Expected 2026.07)
 \*: equal contribution, ^: corresponding author
 
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](#)
+[![arXiv:2511.17254](https://img.shields.io/badge/arXiv-2511.17254-red)](https://arxiv.org/abs/2511.17254)
 [![Repo: SooLab/AllPath](https://img.shields.io/badge/Repo-SooLab%2FAllPath-181717?logo=github&logoColor=white)](https://github.com/SooLab/AllPath)  
 [3] *Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats*  
 **Jiaye Qian**\*, Ge Zheng\*, Yuchen Zhu, Sibei Yang^
