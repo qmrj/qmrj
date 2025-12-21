@@ -73,6 +73,6 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^
 
 ## 📫 聯絡方式
 
-- 📧 學術 / 學習: [qianjy2022@shanghaitech.edu.cn](mailto:qianjy2022@shanghaitech.edu.cn)
-- 📮 其他: [qmrj@qq.com](mailto:qmrj@qq.com)
+- 📧 學術 / 學習: [qianjy2022[AT]shanghaitech.edu.cn](mailto:"錢嘉燁"<qianjy2022@shanghaitech.edu.cn>)
+- 📮 其他: [qmrj[AT]qq.com](mailto:"錢嘉燁"<qmrj@qq.com>)
 - 🌐 語言: 中文，English
