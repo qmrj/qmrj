@@ -7,7 +7,7 @@
 ShanghaiTech University, Shanghai, China  
 B.E. in Computer Science and Technology (Expected 2026.07)
 
----
+<!-- ---
 
 ## 📚 Publications
 
@@ -27,7 +27,7 @@ Sibei Yang^, Ge Zheng, Jiajin Tang, **Jiaye Qian**, Hanzhuo Huang, Cheng Shi
 [![arXiv:2510.20229](https://img.shields.io/badge/arXiv-2510.20229-red)](https://arxiv.org/abs/2510.20229)
 [![Repo: SooLab/HalTrapper](https://img.shields.io/badge/Repo-SooLab%2FHalTrapper-181717?logo=github&logoColor=white)](https://github.com/SooLab/HalTrapper)  
 [1] *Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context*  
-Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^
+Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
 
 ---
 
