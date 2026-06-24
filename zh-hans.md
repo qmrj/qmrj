@@ -3,8 +3,13 @@
 [[English]](README.md)
 <!-- [[繁體中文]](zh-hant.md) -->
 
-🎓 **上海科技大学**  
-计算机科学与技术专业 本科生（预计 2026.07 毕业）
+<!-- 🎓 **博士研究生**  
+中国科学院大学 人工智能学院  
+计算机应用技术 工学博士（预计 2031.06 毕业） -->
+
+🎓 **本科生**  
+上海科技大学 信息科学与技术学院  
+计算机科学与技术 工学学士（预计 2026.07 毕业）
 
 <!-- ---
 
@@ -12,13 +17,13 @@
 
 \*：共同第一作者、^：通讯作者
 
-[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](#)
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/d0cf89927acd9136d27ebf08f9e8a888-Abstract-Conference.html)
 [![arXiv:2511.17254](https://img.shields.io/badge/arXiv-2511.17254-red)](https://arxiv.org/abs/2511.17254)
 [![Repo: SooLab/AllPath](https://img.shields.io/badge/Repo-SooLab%2FAllPath-181717?logo=github&logoColor=white)](https://github.com/SooLab/AllPath)  
 [3] *Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats*  
 **Jiaye Qian**\*, Ge Zheng\*, Yuchen Zhu, Sibei Yang^
 
-[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](#)  
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/299a08ee712d4752c890938da99a77c6-Abstract-Conference.html)  
 [2] *Discovering Compositional Hallucinations in LVLMs*  
 Sibei Yang^, Ge Zheng, Jiajin Tang, **Jiaye Qian**, Hanzhuo Huang, Cheng Shi
 
@@ -73,6 +78,6 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
 
 ## 📫 联系方式
 
-- 📧 学术 / 学习: [qianjy2022 [AT] shanghaitech [DOT] edu [DOT] cn](mailto:&#x71;&#x69;&#x61;&#x6E;&#x6A;&#x79;&#x32;&#x30;&#x32;&#x32;&#x40;&#x73;&#x68;&#x61;&#x6E;&#x67;&#x68;&#x61;&#x69;&#x74;&#x65;&#x63;&#x68;&#x2E;&#x65;&#x64;&#x75;&#x2E;&#x63;&#x6E;)
-- 📮 其他: [qmrj [AT] qq [DOT] com](mailto:&#x71;&#x6D;&#x72;&#x6A;&#x40;&#x71;&#x71;&#x2E;&#x63;&#x6F;&#x6D;)
+<!-- - 📧 学术 / 学习: [qianjy2022 [AT] shanghaitech [DOT] edu [DOT] cn](mailto:&#x71;&#x69;&#x61;&#x6E;&#x6A;&#x79;&#x32;&#x30;&#x32;&#x32;&#x40;&#x73;&#x68;&#x61;&#x6E;&#x67;&#x68;&#x61;&#x69;&#x74;&#x65;&#x63;&#x68;&#x2E;&#x65;&#x64;&#x75;&#x2E;&#x63;&#x6E;) -->
+- 📮 [qmrj@foxmail.com](mailto:qmrj@foxmail.com)
 - 🌐 语言: 中文，English
