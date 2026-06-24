@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jiaye Qian (钱嘉烨)
+# 👋 Hi, I am Jiaye Qian (钱嘉烨)
 
 [[简体中文]](zh-hans.md)
 <!-- [[繁體中文]](zh-hant.md) -->
