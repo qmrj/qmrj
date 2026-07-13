@@ -8,7 +8,7 @@ University of Chinese Academy of Sciences, School of Artificial Intelligence
 D.Eng. in Computer Application Technology (Expected 2031.06)  
 Beijing, China -->
 
-> Note: I am expected to pursue for a Ph.D. degree at the School of Artificial Intelligence, University of Chinese Academy of Sciences in September this year.
+> Note: I am expected to begin my Ph.D. studies at the School of Artificial Intelligence, University of Chinese Academy of Sciences, this September.
 
 🎓 **Undergraduate Student**  
 ShanghaiTech University, School of Information Science and Technology  
