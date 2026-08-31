@@ -3,15 +3,14 @@
 [[English]](README.md)
 [[简体中文]](zh-hans.md)
 
-<!-- 🎓 **博士生**  
-中國科學院大學 人工智能學院  
-計算機應用技術 工學博士（預計 2031 年 6 月 畢業） -->
+## 🎓 教育經歷
 
-> 注：預計我將於今年 9 月前往中國科學院大學人工智能學院攻讀博士學位。
-
-🎓 **大學生**  
-上海科技大學 信息科學與技術學院  
-計算機科學與技術 工學學士（2022 年 9 月 – 2026 年 7 月）
+- **博士研究生**  
+  中國科學院大學 人工智能學院  
+  計算機應用技術 工學博士（預計 2031 年 6 月 畢業）
+- **本科生**  
+  上海科技大學 信息科學與技術學院  
+  計算機科學與技術 工學學士（2022 年 9 月 – 2026 年 7 月）
 
 <!-- ---
 
@@ -80,6 +79,6 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
 
 ## 📫 聯絡方式
 
-<!-- - 📧 學術 / 學習: [qianjy2022 [AT] shanghaitech [DOT] edu [DOT] cn](mailto:&#x71;&#x69;&#x61;&#x6E;&#x6A;&#x79;&#x32;&#x30;&#x32;&#x32;&#x40;&#x73;&#x68;&#x61;&#x6E;&#x67;&#x68;&#x61;&#x69;&#x74;&#x65;&#x63;&#x68;&#x2E;&#x65;&#x64;&#x75;&#x2E;&#x63;&#x6E;) -->
-- 📮 [qmrj@foxmail.com](mailto:qmrj@foxmail.com)
+- 📧 學術 / 學習: [qianjiaye26@mails.ucas.ac.cn](mailto:qianjiaye26@mails.ucas.ac.cn)
+- 📮 其他：[qmrj@foxmail.com](mailto:qmrj@foxmail.com)
 - 🌐 語言: 中文，English

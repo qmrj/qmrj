@@ -3,17 +3,16 @@
 [[简体中文]](zh-hans.md)
 <!-- [[繁體中文]](zh-hant.md) -->
 
-<!-- 🎓 **Ph.D. Student**  
-University of Chinese Academy of Sciences, School of Artificial Intelligence  
-D.Eng. in Computer Application Technology (Expected 2031.06)  
-Beijing, China -->
+## 🎓 Education
 
-> Note: I am expected to begin my Ph.D. studies at the School of Artificial Intelligence, University of Chinese Academy of Sciences, this September.
-
-🎓 **Undergraduate Student**  
-ShanghaiTech University, School of Information Science and Technology  
-B.Eng. in Computer Science and Technology (2022.09 – 2026.07)  
-Shanghai, China
+- **Ph.D. Student**  
+  University of Chinese Academy of Sciences, School of Artificial Intelligence  
+  D.Eng. in Computer Application Technology (Expected 2031.06)  
+  Beijing, China
+- **Undergraduate Student**  
+  ShanghaiTech University, School of Information Science and Technology  
+  B.Eng. in Computer Science and Technology (2022.09 – 2026.07)  
+  Shanghai, China
 
 <!-- ---
 
@@ -82,6 +81,6 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
 
 ## 📫 Contact
 
-<!-- - 📧 Academic / Study: [qianjy2022 [AT] shanghaitech [DOT] edu [DOT] cn](mailto:&#x71;&#x69;&#x61;&#x6E;&#x6A;&#x79;&#x32;&#x30;&#x32;&#x32;&#x40;&#x73;&#x68;&#x61;&#x6E;&#x67;&#x68;&#x61;&#x69;&#x74;&#x65;&#x63;&#x68;&#x2E;&#x65;&#x64;&#x75;&#x2E;&#x63;&#x6E;) -->
-- 📮 [qmrj@foxmail.com](mailto:qmrj@foxmail.com)
+- 📧 Academic / Study: [qianjiaye26@mails.ucas.ac.cn](mailto:qianjiaye26@mails.ucas.ac.cn)
+- 📮 Other: [qmrj@foxmail.com](mailto:qmrj@foxmail.com)
 - 🌐 Languages: English, 中文
