@@ -1,44 +1,60 @@
-# 👋 你好，我是錢嘉燁
+# 👋 你好，我是钱嘉烨
 
 [[English]](README.md)
-[[简体中文]](zh-hans.md)
+<!-- [[繁體中文]](zh-hant.md) -->
 
-## 🎓 教育經歷
+我目前在**中国科学院大学**攻读计算机应用技术博士学位，师从[姜海勇](#)教授，研究方向聚焦于**三维重建、计算机视觉及三维视觉与几何**。
 
-- **博士研究生**  
-  中國科學院大學 人工智能學院  
-  計算機應用技術 工學博士（預計 2031 年 6 月 畢業）
-- **本科生**  
-  上海科技大學 信息科學與技術學院  
-  計算機科學與技術 工學學士（2022 年 9 月 – 2026 年 7 月）
+此外，我此前曾跟随[杨思蓓](https://sibeiyang.github.io/)教授研究**视觉语言模型**与多模态大语言模型的幻觉问题。
 
-<!-- ---
+---
 
-## 📚 學術成果
+## 🔬 研究方向
 
-\*：共同第一作者、^：通訊作者
+* 🧊 **三维重建**
+* 👁️ **计算机视觉**
+* 📐 **三维视觉与几何**
+* 🤖 **多模态大语言模型** *（曾研究）*
+
+---
+
+## 🎓 教育经历
+
+**中国科学院大学** · 人工智能学院<br>
+计算机应用技术 博士研究生 · 2026 年 9 月 – 预计 2031 年 6 月<br>
+📍 中国北京
+
+**上海科技大学** · 信息科学与技术学院<br>
+计算机科学与技术 本科生 · 2022 年 9 月 – 2026 年 7 月<br>
+📍 中国上海
+
+---
+
+## 📚 学术成果
+
+*† 通讯作者 · \* 共同第一作者*
 
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/d0cf89927acd9136d27ebf08f9e8a888-Abstract-Conference.html)
 [![arXiv:2511.17254](https://img.shields.io/badge/arXiv-2511.17254-red)](https://arxiv.org/abs/2511.17254)
-[![Repo: SooLab/AllPath](https://img.shields.io/badge/Repo-SooLab%2FAllPath-181717?logo=github&logoColor=white)](https://github.com/SooLab/AllPath)  
-[3] *Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats*  
+[![Repo: SooLab/AllPath](https://img.shields.io/badge/Repo-SooLab%2FAllPath-181717?logo=github&logoColor=white)](https://github.com/SooLab/AllPath)<br>
+[3] *Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats*<br>
 **Jiaye Qian**\*, Ge Zheng\*, Yuchen Zhu, Sibei Yang^
 
-[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/299a08ee712d4752c890938da99a77c6-Abstract-Conference.html)  
-[2] *Discovering Compositional Hallucinations in LVLMs*  
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/299a08ee712d4752c890938da99a77c6-Abstract-Conference.html)<br>
+[2] *Discovering Compositional Hallucinations in LVLMs*<br>
 Sibei Yang^, Ge Zheng, Jiajin Tang, **Jiaye Qian**, Hanzhuo Huang, Cheng Shi
 
 [![ICCV 2025](https://img.shields.io/badge/ICCV%202025-blue)](https://openaccess.thecvf.com/content/ICCV2025/html/Zheng_Why_LVLMs_Are_More_Prone_to_Hallucinations_in_Longer_Responses_ICCV_2025_paper.html)
 [![arXiv:2510.20229](https://img.shields.io/badge/arXiv-2510.20229-red)](https://arxiv.org/abs/2510.20229)
-[![Repo: SooLab/HalTrapper](https://img.shields.io/badge/Repo-SooLab%2FHalTrapper-181717?logo=github&logoColor=white)](https://github.com/SooLab/HalTrapper)  
-[1] *Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context*  
-Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
+[![Repo: SooLab/HalTrapper](https://img.shields.io/badge/Repo-SooLab%2FHalTrapper-181717?logo=github&logoColor=white)](https://github.com/SooLab/HalTrapper)<br>
+[1] *Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context*<br>
+Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^
 
 ---
 
 ## 🛠️ 技能
 
-### 👨‍💻 程式語言
+### 👨‍💻 编程语言
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
@@ -46,7 +62,7 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 
-### 🛠️ 工具與平台
+### 🛠️ 工具与平台
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qmrj)
@@ -57,7 +73,7 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
 [![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://docs.conda.io/)
 [![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://pip.pypa.io/)
 
-### 📚 框架與函式庫
+### 📚 框架与库
 
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -65,7 +81,7 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Overleaf](https://img.shields.io/badge/Overleaf-00B0B9?style=for-the-badge&logo=overleaf&logoColor=white)](https://www.overleaf.com/)
 
-### 🐣 接觸過
+### 🐣 接触过
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -77,8 +93,8 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
 
 ---
 
-## 📫 聯絡方式
+## 📫 联系方式
 
-- 📧 學術 / 學習: [qianjiaye26@mails.ucas.ac.cn](mailto:qianjiaye26@mails.ucas.ac.cn)
-- 📮 其他：[qmrj@foxmail.com](mailto:qmrj@foxmail.com)
-- 🌐 語言: 中文，English
+* 📧 学术 / 学习: **[qianjiaye26@mails.ucas.ac.cn](mailto:qianjiaye26@mails.ucas.ac.cn)**
+* 📮 其他：**[qmrj@foxmail.com](mailto:qmrj@foxmail.com)**
+* 🌐 语言: 中文，English

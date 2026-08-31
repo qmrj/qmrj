@@ -1,44 +1,55 @@
 # 👋 Hi, I am Jiaye Qian (钱嘉烨)
 
-[[简体中文]](zh-hans.md)
-<!-- [[繁體中文]](zh-hant.md) -->
+[[简体中文]](zh-Hans-CN.md)
+
+I am a Ph.D. student in Computer Application Technology at the **University of Chinese Academy of Sciences**, advised by [Haiyong Jiang](#). My research interests include **3D Reconstruction, Computer Vision, and 3D Vision & Geometry**.
+
+Previously, I worked on **Vision-Language Models** and multimodal large language model hallucinations under the supervision of [Sibei Yang](https://sibeiyang.github.io/).
+
+---
+
+## 🔬 Research Interests
+
+* 🧊 **3D Reconstruction**
+* 👁️ **Computer Vision**
+* 📐 **3D Vision & Geometry**
+* 🤖 **Multimodal Large Language Models** *(previously)*
+
+---
 
 ## 🎓 Education
 
-- **Ph.D. Student**  
-  University of Chinese Academy of Sciences, School of Artificial Intelligence  
-  D.Eng. in Computer Application Technology (Expected 2031.06)  
-  Beijing, China
-- **Undergraduate Student**  
-  ShanghaiTech University, School of Information Science and Technology  
-  B.Eng. in Computer Science and Technology (2022.09 – 2026.07)  
-  Shanghai, China
+**University of Chinese Academy of Sciences** · School of Artificial Intelligence<br>
+Ph.D. in Computer Application Technology · *2026.09 – Expected 2031.06*<br>
+📍 Beijing, China
 
-<!-- ---
+**ShanghaiTech University** · School of Information Science and Technology<br>
+B.Eng. in Computer Science and Technology · *2022.09 – 2026.07*<br>
+📍 Shanghai, China
+
+---
 
 ## 📚 Publications
 
-\*: equal contribution, ^: corresponding author
+*† Corresponding author · \* Equal contribution*
 
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/d0cf89927acd9136d27ebf08f9e8a888-Abstract-Conference.html)
 [![arXiv:2511.17254](https://img.shields.io/badge/arXiv-2511.17254-red)](https://arxiv.org/abs/2511.17254)
-[![Repo: SooLab/AllPath](https://img.shields.io/badge/Repo-SooLab%2FAllPath-181717?logo=github&logoColor=white)](https://github.com/SooLab/AllPath)  
-[3] *Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats*  
+[![Repo: SooLab/AllPath](https://img.shields.io/badge/Repo-SooLab%2FAllPath-181717?logo=github&logoColor=white)](https://github.com/SooLab/AllPath)<br>
+[3] *Intervene-All-Paths: Unified Mitigation of LVLM Hallucinations across Alignment Formats*<br>
 **Jiaye Qian**\*, Ge Zheng\*, Yuchen Zhu, Sibei Yang^
 
-[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/299a08ee712d4752c890938da99a77c6-Abstract-Conference.html)  
-[2] *Discovering Compositional Hallucinations in LVLMs*  
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/299a08ee712d4752c890938da99a77c6-Abstract-Conference.html)<br>
+[2] *Discovering Compositional Hallucinations in LVLMs*<br>
 Sibei Yang^, Ge Zheng, Jiajin Tang, **Jiaye Qian**, Hanzhuo Huang, Cheng Shi
 
 [![ICCV 2025](https://img.shields.io/badge/ICCV%202025-blue)](https://openaccess.thecvf.com/content/ICCV2025/html/Zheng_Why_LVLMs_Are_More_Prone_to_Hallucinations_in_Longer_Responses_ICCV_2025_paper.html)
 [![arXiv:2510.20229](https://img.shields.io/badge/arXiv-2510.20229-red)](https://arxiv.org/abs/2510.20229)
-[![Repo: SooLab/HalTrapper](https://img.shields.io/badge/Repo-SooLab%2FHalTrapper-181717?logo=github&logoColor=white)](https://github.com/SooLab/HalTrapper)  
-[1] *Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context*  
-Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
+[![Repo: SooLab/HalTrapper](https://img.shields.io/badge/Repo-SooLab%2FHalTrapper-181717?logo=github&logoColor=white)](https://github.com/SooLab/HalTrapper)<br>
+[1] *Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context*<br>
+Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^
 
----
-
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 
@@ -81,6 +92,6 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang^ -->
 
 ## 📫 Contact
 
-- 📧 Academic / Study: [qianjiaye26@mails.ucas.ac.cn](mailto:qianjiaye26@mails.ucas.ac.cn)
-- 📮 Other: [qmrj@foxmail.com](mailto:qmrj@foxmail.com)
-- 🌐 Languages: English, 中文
+* 📧 Academic / Study: **[qianjiaye26@mails.ucas.ac.cn](mailto:qianjiaye26@mails.ucas.ac.cn)**
+* 📮 Personal: **[qmrj@foxmail.com](mailto:qmrj@foxmail.com)**
+* 🌐 Language: 中文 / English
