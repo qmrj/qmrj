@@ -7,16 +7,12 @@
 
 此外，我此前曾跟随[杨思蓓](https://sibeiyang.github.io/)教授研究**视觉语言模型**与多模态大语言模型的幻觉问题。
 
----
-
 ## 🔬 研究方向
 
 * 🧊 **三维重建**
 * 👁️ **计算机视觉**
 * 📐 **三维视觉与几何**
 * 🤖 **多模态大语言模型** *（曾研究）*
-
----
 
 ## 🎓 教育经历
 
@@ -27,8 +23,6 @@
 **上海科技大学** · 信息科学与技术学院<br>
 计算机科学与技术 本科生 · 2022 年 9 月 – 2026 年 7 月<br>
 📍 中国上海
-
----
 
 ## 📚 学术成果
 
@@ -49,8 +43,6 @@ Sibei Yang†, Ge Zheng, Jiajin Tang, **Jiaye Qian**, Hanzhuo Huang, Cheng Shi
 [![Repo: SooLab/HalTrapper](https://img.shields.io/badge/Repo-SooLab%2FHalTrapper-181717?logo=github&logoColor=white)](https://github.com/SooLab/HalTrapper)<br>
 [1] *Why LVLMs Are More Prone to Hallucinations in Longer Responses: The Role of Context*<br>
 Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang†
-
----
 
 ## 🛠️ 技能
 
@@ -90,8 +82,6 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang†
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)](https://www.w3schools.com/sql/)
 [![OpenGL](https://img.shields.io/badge/OpenGL-5580A8?style=for-the-badge&logo=opengl&logoColor=white)](https://www.opengl.org/)
-
----
 
 ## 📫 联系方式
 

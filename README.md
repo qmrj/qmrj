@@ -6,16 +6,12 @@ I am a Ph.D. student in Computer Application Technology at the **University of C
 
 Previously, I worked on **Vision-Language Models** and multimodal large language model hallucinations under the supervision of [Sibei Yang](https://sibeiyang.github.io/).
 
----
-
 ## 🔬 Research Interests
 
 * 🧊 **3D Reconstruction**
 * 👁️ **Computer Vision**
 * 📐 **3D Vision & Geometry**
 * 🤖 **Multimodal Large Language Models** *(previously)*
-
----
 
 ## 🎓 Education
 
@@ -26,8 +22,6 @@ Ph.D. in Computer Application Technology · *2026.09 – Expected 2031.06*<br>
 **ShanghaiTech University** · School of Information Science and Technology<br>
 B.Eng. in Computer Science and Technology · *2022.09 – 2026.07*<br>
 📍 Shanghai, China
-
----
 
 ## 📚 Publications
 
@@ -87,8 +81,6 @@ Ge Zheng\*, **Jiaye Qian**\*, Jiajin Tang, Sibei Yang†
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)](https://www.w3schools.com/sql/)
 [![OpenGL](https://img.shields.io/badge/OpenGL-5580A8?style=for-the-badge&logo=opengl&logoColor=white)](https://www.opengl.org/)
-
----
 
 ## 📫 Contact
 
